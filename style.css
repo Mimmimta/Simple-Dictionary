@@ -1,0 +1,29 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.animals {
+    font-size: 20px;
+    font-family: cursive;
+    color: #CF4B00;
+}
+
+#title {
+  font-family: cursive;
+  color: #CF4B00;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin: 0 300px;
+    color: #1A3263;
+}
+
+h1 {
+    color: #547792;
+}
